@@ -1,8 +1,10 @@
 ## JavaScript Developer | Building Real Projects 🚀
 
-- 🧠 Estudanto atualmente Javascript fullstack, N8N e UX/UI.
+- 🧠 Estudanto atualmente Javascript fullstack, N8N e UX/UI
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?almeida-510=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 GitHub Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Almeida-510&theme=radical)
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
