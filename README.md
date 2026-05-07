@@ -1,6 +1,6 @@
 ## JavaScript Developer | Building Real Projects 🚀
 
-- 🧠 Estudanto atualmente Javascript fullstack, N8N e UX/UI
+- 🧠 Estudanto atualmente Javascript fullstack
 
 ## 📊 GitHub Stats
 
