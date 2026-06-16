@@ -1,7 +1,3 @@
-## JavaScript Developer
-
-- 🧠 Estudanto atualmente Javascript fullstack
-
 ## 📊 GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Almeida-510&theme=radical)
