@@ -1,4 +1,4 @@
-## JavaScript Developer | Building Real Projects 🚀
+## JavaScript Developer
 
 - 🧠 Estudanto atualmente Javascript fullstack
 
